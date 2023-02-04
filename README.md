@@ -13,5 +13,6 @@
 2) Выбрать трек
 3) Надеть наушники и наслаждаться
 
-## Скриншот "дизайна"
-![Screenshot_3](https://user-images.githubusercontent.com/77489413/216784251-4a328de8-b14d-4d50-9757-b3b582c2ce5d.png)
+## Как выглядит приложение?
+
+![Screenshot_1](https://user-images.githubusercontent.com/77489413/216784376-135147e1-d79f-4bd7-9b92-8bf32dd39978.png)
